@@ -1,0 +1,6 @@
+item:lenovo
+price:70000
+item:dell
+price:65000
+item:asus
+price:90000

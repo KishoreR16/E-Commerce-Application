@@ -1,0 +1,6 @@
+item:ac
+price:20000
+item:oven
+price:30000
+item:fridge
+price:2

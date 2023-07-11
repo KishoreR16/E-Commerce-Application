@@ -1,0 +1,7 @@
+item:samsung
+price:50000
+item:lg
+price:55000
+item:sony
+price:40000
+
